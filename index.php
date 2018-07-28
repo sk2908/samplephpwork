@@ -5,7 +5,7 @@
 <h1>DevOps Second  PHP project</h1>
 
 <?php
-echo "version 5.0 Changes are done in version ";
+echo "version 4.5 Changes are done in version ";
 ?>
 
 </body>
