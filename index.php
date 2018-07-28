@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>DevOps first project</h1>
+<h1>DevOps first PHP project</h1>
 
 <?php
-echo "version 2.0";
+echo "version 3.0 Changes are done in version ";
 ?>
 
 </body>
